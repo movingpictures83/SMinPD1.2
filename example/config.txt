@@ -1,0 +1,2 @@
+Prefix plugins/SMinPD12/example
+Plugin SMinPD12 inputfile vars.txt outputfile out
